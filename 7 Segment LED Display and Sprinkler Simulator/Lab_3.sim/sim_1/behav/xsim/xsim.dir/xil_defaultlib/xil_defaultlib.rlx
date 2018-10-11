@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/EE 316 Labs/Lab_3/Lab_3.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/EE 316 Labs/Lab_3/Lab_3.srcs/sim_1/new/tb_BCD_to_7Segment_LED_Display.v,1538732216,verilog,,,,tb_BCD_to_7Segment_LED_Display,,,,,,,,
+C:/EE 316 Labs/Lab_3/Lab_3.srcs/sim_1/new/tb_myAND.v,1538682440,verilog,,,,tb_myAND,,,,,,,,
+C:/EE 316 Labs/Lab_3/Lab_3.srcs/sources_1/new/BCD_to_7Segment_LED_Display_Structural.v,1538734487,verilog,,C:/EE 316 Labs/Lab_3/Lab_3.srcs/sim_1/new/tb_BCD_to_7Segment_LED_Display.v,,BCD_to_7Segment_LED_Display_Structural,,,,,,,,
+C:/EE 316 Labs/Lab_3/Lab_3.srcs/sources_1/new/myAND.v,1538682396,verilog,,C:/EE 316 Labs/Lab_3/Lab_3.srcs/sim_1/new/tb_myAND.v,,myAND,,,,,,,,
