@@ -1,0 +1,13 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/EE 316 Labs/Lab_2/Lab_2.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Decoder_behavioral.v,1537501532,verilog,,,,tb_Decoder_behavioral,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Decoder_structural.v,1537491508,verilog,,,,tb_Decoder_structural,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Multiplexer_behavioral.v,1537563954,verilog,,,,tb_Multiplexer_behavioral,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Multiplexer_structural.v,1537562699,verilog,,,,tb_Multiplexer_structural,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sources_1/new/Decoder_behavioral.v,1537501063,verilog,,C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Decoder_behavioral.v,,Decoder_behavioral,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sources_1/new/Decoder_structural.v,1537488852,verilog,,C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Decoder_structural.v,,Decoder_structural,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sources_1/new/Multiplexer_behavioral.v,1537563808,verilog,,C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Multiplexer_behavioral.v,,Multiplexer_behavioral,,,,,,,,
+C:/EE 316 Labs/Lab_2/Lab_2.srcs/sources_1/new/Multiplexer_structural.v,1537561072,verilog,,C:/EE 316 Labs/Lab_2/Lab_2.srcs/sim_1/new/tb_Multiplexer_structural.v,,Multiplexer_structural,,,,,,,,

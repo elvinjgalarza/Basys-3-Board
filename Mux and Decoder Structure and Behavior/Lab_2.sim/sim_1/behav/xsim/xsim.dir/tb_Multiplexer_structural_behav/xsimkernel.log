@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_Multiplexer_structural_behav/xsimk.exe -simmode gui -wdb tb_Multiplexer_structural_behav.wdb -simrunnum 0 -socket 55764
+Design successfully loaded
+Design Loading Memory Usage: 4708 KB (Peak: 4708 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 5280 KB (Peak: 5280 KB)
+Simulation CPU Usage: 15 ms
